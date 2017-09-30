@@ -9,7 +9,7 @@ namespace EncurtadorURL.Controllers
   public class UrlController : Controller
   {
     [HttpGet]
-    public IActionResult GetUrl(string url)
+    public IActionResult Greetings(string url)
     {
        try
         {                
