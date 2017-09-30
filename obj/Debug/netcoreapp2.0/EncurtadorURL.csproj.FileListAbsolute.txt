@@ -1,0 +1,11 @@
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\bin\Debug\netcoreapp2.0\EncurtadorURL.deps.json
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\bin\Debug\netcoreapp2.0\EncurtadorURL.runtimeconfig.json
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\bin\Debug\netcoreapp2.0\EncurtadorURL.runtimeconfig.dev.json
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\bin\Debug\netcoreapp2.0\EncurtadorURL.dll
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\obj\Debug\netcoreapp2.0\EncurtadorURL.csprojResolveAssemblyReference.cache
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\obj\Debug\netcoreapp2.0\EncurtadorURL.csproj.CoreCompileInputs.cache
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\obj\Debug\netcoreapp2.0\EncurtadorURL.AssemblyInfoInputs.cache
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\obj\Debug\netcoreapp2.0\EncurtadorURL.AssemblyInfo.cs
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\bin\Debug\netcoreapp2.0\EncurtadorURL.pdb
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\obj\Debug\netcoreapp2.0\EncurtadorURL.dll
+C:\Users\curup\Documents\Estudo\PosGraduacao\Trabalhos\EncurtadorURL\obj\Debug\netcoreapp2.0\EncurtadorURL.pdb

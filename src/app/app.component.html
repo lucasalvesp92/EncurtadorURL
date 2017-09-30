@@ -1,0 +1,10 @@
+
+<h2>Encurtador de URL - AspNet Web API Angular 2</h2>
+  <hr />
+
+  <input type="text"  #titleInput placeholder="Insira a sua URL" style="width: 350px" required aria-errormessage="Preêncha o campo URL">
+  <button type="submit" (click) = EncurtarUrl(titleInput.value) >Encurtar</button>
+  <hr />
+  <h2 class='panel-heading'>
+    <h3>Sua Url Encurtada: </h3> <a href={{greetings}}> {{greetings}}</a>
+  </h2>
